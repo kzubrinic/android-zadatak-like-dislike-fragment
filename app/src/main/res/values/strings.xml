@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentLikeDislikeZadatak</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonLike">Like</string>
+    <string name="buttonDislake">Dislake</string>
+    <string name="lab1">Broj lajkova</string>
+    <string name="lab2">Broj dislajkova</string>
+    <string name="textviewnaziv">Android ikona</string>
+    <string name="textviewOpis">Ovo je inicijalna ikona aplikacije u Android operacijskom sustavu. Može se promijeniti tako da se podatak o novoj datoteci zabilježi u datoteci manifesta.</string>
+</resources>
